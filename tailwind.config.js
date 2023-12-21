@@ -14,6 +14,7 @@ module.exports = {
         primary: "#BF3326",
         secondary: "#F2B29B",
         TheBlack: "#262626",
+        TheGray: "rgba(246, 246, 246, 0.53)",
       },
       backgroundImage: {
         homeImg1: "url('./src/assets/homeImg1.png')",
